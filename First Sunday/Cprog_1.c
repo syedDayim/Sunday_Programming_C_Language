@@ -26,7 +26,7 @@ main(){
     // format specifiers:
     // int   ---> %d
     // float ---> %f
-    // double ---> %df
+    // double ---> %lf
     // char -----> %c
 
 
