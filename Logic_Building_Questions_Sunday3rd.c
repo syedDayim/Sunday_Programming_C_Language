@@ -159,7 +159,7 @@
 // 	scanf("%d", &number);
 
 
-// 	right_most_digit =  10 % number ;
+// 	right_most_digit = number % 10;
 
 
 
